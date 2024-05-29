@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tugas App Berita</string>
+    <string name="top_headlines">Top Headlines</string>
+    <string name="browse">Browse</string>
+    <string name="share">Share</string>
+    <string name="save">Read later</string>
+    <string name="listen">Listen</string>
+    <string name="internet_warming">Check your Internet Connection and Try Again!</string>
+    <string name="news_placeholder">Ini adalah aplikasi tugas berita yang di kembangkan oleh sulistiawaty tugas semester 8 nengguakan bahasa pemrograman kotlin</string>
+
+</resources>
